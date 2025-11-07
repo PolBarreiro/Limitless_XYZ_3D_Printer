@@ -1,0 +1,40 @@
+RobImp® – Robot d’Impressió 3D Omnidireccional de Volum Il·limitat
+
+Inventor: Pol Barreiro Font
+Patent pending / Model d’utilitat
+Llicència: Ús no comercial – CC BY-NC-SA 4.0
+
+Resum
+
+El RobImp® és una impressora 3D autònoma i omnidireccional capaç d’imprimir objectes o estructures de volum pràcticament il·limitat utilitzant una unitat robòtica petita. A diferència de les impressores convencionals, el sistema no requereix un marc fix ni un volum d’impressió tancat: el propi robot es desplaça sobre l’estructura en construcció mentre imprimeix capa per capa.
+
+Descripció tècnica
+
+El dispositiu consisteix en:
+
+Un xassís compacte amb quatre rodes omnidireccionals motoritzades per motors pas a pas.
+
+Una placa base d’impressora 3D estàndard que controla motors, extrusor i sensors.
+
+Un extrusor de filament o material viscós amb alçada regulable automàticament, capaç de solidificar el material immediatament després de l’extrusió.
+
+Sensors de posició làser o electromagnètics per detectar l’alineació de capa i la geometria de l’estructura.
+
+El robot es mou imprimint les capes successives sobre una estructura de suport temporal que ell mateix construeix (de cera, sorra aglomerada, o material de solidificació ràpida).
+El cap d’extrusió s’orienta sempre cap a l’exterior del volum, mantenint les rodes sobre la superfície interior per garantir estabilitat.
+
+Aquest principi permet imprimir estructures sense límit de mida —des de peces industrials fins a edificis— utilitzant només un robot del tamany d’una caixa de sabates.
+La impressió pot fer-se amb una sola unitat o amb una flota coordinada de robots treballant en paral·lel sobre diferents seccions d’una mateixa construcció.
+
+Aplicacions
+
+Impressió 3D d’edificis o estructures arquitectòniques sense grues ni marcs gegants.
+
+Fabricació additiva a escala urbana, naval o aeroespacial.
+
+Impressió d’estructures autoportants usant geometries de catenària o volta catalana.
+
+Reivindicació principal
+
+Un sistema robòtic d’impressió 3D autònom amb moviment omnidireccional, capaç de desplaçar-se i imprimir sobre la pròpia estructura en construcció, generant i aprofitant suports temporals per fabricar objectes de volum il·limitat amb una unitat compacta.
+
