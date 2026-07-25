@@ -1,40 +1,22 @@
-RobImp® – Robot d’Impressió 3D Omnidireccional de Volum Il·limitat
+Limitless XYZ 3D Printer (patent pending 2026)
 
-Inventor: Pol Barreiro Font
-Patent pending / Model d’utilitat
-Llicència: Ús no comercial – CC BY-NC-SA 4.0
+A small printer taht can print any size object.
 
-Resum
+No phisical constrains on 3D printing size (just by material/shape/gravity and space to buid object).
+OmniPrinter that can print entire skyscrapers, La Tour Eiffel at 1:1 scale (10 years print) or any other big object.
+I prints on plastic (extrusion PLA) but it could also print metals (electrodeposition) or cement (ultrafast-dry-cement)
+Pint head and printer OmniBot or OmniPrinter are scalable. Small robot to print smaller but detailed prints with 0.1-0.3 layer height
+and bigger OmniBot for bigger prints like cement buildings or metalic structures like skyscrapers.
 
-El RobImp® és una impressora 3D autònoma i omnidireccional capaç d’imprimir objectes o estructures de volum pràcticament il·limitat utilitzant una unitat robòtica petita. A diferència de les impressores convencionals, el sistema no requereix un marc fix ni un volum d’impressió tancat: el propi robot es desplaça sobre l’estructura en construcció mentre imprimeix capa per capa.
+The patented tecnic consists of a omnidireccional robot with one or more printheads of filament deposition or block position
+or any type of extrusion, deposition, melting, anything actually that can put material.
 
-Descripció tècnica
+The core concept is not the omnidireccional robot nor the deposition or placing material element or printheat.
 
-El dispositiu consisteix en:
+The true genius of the idea (the patented part) how to make a small printer become a Limitless 3D Printer Omnirobot.
 
-Un xassís compacte amb quatre rodes omnidireccionals motoritzades per motors pas a pas.
+If you read this and are interested on a Limitless 3D printer bussiness contact me at www.polbarreirofont.cat or github contact info.
 
-Una placa base d’impressora 3D estàndard que controla motors, extrusor i sensors.
+*Webpage is now under reconstruction (coming soon with beautifull images and more human friendly)
 
-Un extrusor de filament o material viscós amb alçada regulable automàticament, capaç de solidificar el material immediatament després de l’extrusió.
-
-Sensors de posició làser o electromagnètics per detectar l’alineació de capa i la geometria de l’estructura.
-
-El robot es mou imprimint les capes successives sobre una estructura de suport temporal que ell mateix construeix (de cera, sorra aglomerada, o material de solidificació ràpida).
-El cap d’extrusió s’orienta sempre cap a l’exterior del volum, mantenint les rodes sobre la superfície interior per garantir estabilitat.
-
-Aquest principi permet imprimir estructures sense límit de mida —des de peces industrials fins a edificis— utilitzant només un robot del tamany d’una caixa de sabates.
-La impressió pot fer-se amb una sola unitat o amb una flota coordinada de robots treballant en paral·lel sobre diferents seccions d’una mateixa construcció.
-
-Aplicacions
-
-Impressió 3D d’edificis o estructures arquitectòniques sense grues ni marcs gegants.
-
-Fabricació additiva a escala urbana, naval o aeroespacial.
-
-Impressió d’estructures autoportants usant geometries de catenària o volta catalana.
-
-Reivindicació principal
-
-Un sistema robòtic d’impressió 3D autònom amb moviment omnidireccional, capaç de desplaçar-se i imprimir sobre la pròpia estructura en construcció, generant i aprofitant suports temporals per fabricar objectes de volum il·limitat amb una unitat compacta.
-
+thx!
